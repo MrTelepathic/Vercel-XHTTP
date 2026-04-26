@@ -119,7 +119,7 @@ Notes:
 ### 3. Deploy
 
 ```bash
-git clone https://github.com/ramynn/vercel-xhttp-relay.git
+git clone https://github.com/MrTelepathic/Vercel-XHTTP.git
 cd vercel-xhttp-relay
 
 vercel --prod
@@ -205,6 +205,3 @@ vless://UUID@vercel.com:443?encryption=none&security=tls&sni=vercel.com&type=xht
 └── README.md
 ```
 
-## License
-
-MIT.
