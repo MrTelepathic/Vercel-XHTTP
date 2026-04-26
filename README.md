@@ -120,7 +120,7 @@ Notes:
 
 ```bash
 git clone https://github.com/MrTelepathic/Vercel-XHTTP.git
-cd vercel-xhttp-relay
+cd Vercel-XHTTP
 
 vercel --prod
 ```
